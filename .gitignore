@@ -75,3 +75,7 @@ Front/.next/
 
 # Ignorar arquivos de logs do front-end
 Front/logs/
+
+.env
+**/appsettings.json
+**/appsettings.*.json
