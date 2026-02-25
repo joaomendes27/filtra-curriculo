@@ -1,0 +1,6 @@
+@Filtra_Curriculo_HostAddress = http://localhost:5200
+
+GET {{Filtra_Curriculo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
